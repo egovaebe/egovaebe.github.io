@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://egovaebe.github.io/VLg/sitemap_index.txt
+Sitemap: https://egovaebe.github.io/aPU/sitemap_index.txt
+Sitemap: https://egovaebe.github.io/eCA/sitemap_index.txt
+Sitemap: https://egovaebe.github.io/emq/sitemap_index.txt
